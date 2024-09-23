@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'Build step is not needed for this project'",
+    "build": "npm install",
     "start": "node index.js",
     "json-server": "json-server --watch db.json --port 3001"
   },
