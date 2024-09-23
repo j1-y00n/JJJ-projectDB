@@ -9,8 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/SeungjuShin93/Jays_Toy_DB.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Seungju Shin",
   "license": "ISC",
   "description": "",
   "dependencies": {
