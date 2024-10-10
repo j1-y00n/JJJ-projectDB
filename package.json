@@ -7,9 +7,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SeungjuShin93/Jays_Toy_DB.git"
+    "url": "git+https://github.com/j1-y00n/JJJ-projectDB.git"
   },
-  "author": "Seungju Shin",
   "license": "ISC",
   "description": "",
   "devDependencies": {
